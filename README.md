@@ -9,6 +9,5 @@
 <h3>Things I code with</h3>
 
 
-
-
 Thanks for visiting and I'd love to connect!
+<img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
