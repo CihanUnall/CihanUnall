@@ -1,13 +1,13 @@
-
-   
-   <h1>👋 Hi, I’m Cihan</h1>
-
-
+###  👋 Hello , I am  Cihan
 <p>Welcome to my page! </p> 
 <p> I`m a Web Development Student </p>
 <p>Herne, Germany</p>
-<h3>Things I code with</h3>
-<h4>Html, Css, Dreamwiever</h4>   
+
+
+| Things I code with |            |
+| ------------- | --------------- |
+| Html          | Css             |
+| Dreamweaver   | Photoshop       |
 
 
 Thanks for visiting and I'd love to connect!
