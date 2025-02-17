@@ -7,7 +7,7 @@
 | Things I code with |            |
 | ------------- | --------------- |
 | Html          | Css             |
-| Dreamweaver   | Photoshop       |
+| JavaScript    | Photoshop       |
 
 
 Thanks for visiting and I'd love to connect!
