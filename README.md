@@ -8,7 +8,7 @@
 | ------------- | --------------- |
 | Html          | Css             |
 | JavaScript    | Photoshop       |
-
+| TypeScript    | React           |
 
 Thanks for visiting and I'd love to connect!
 
