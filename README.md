@@ -3,7 +3,7 @@
 <p> I`m a Web Development Student </p>
 <p>Herne, Germany</p>
 
-| -------------------------------------| 
+
 | Things I code with |                 |
 | -------------------|-----------------| 
 | Html               | Css             | 
@@ -11,7 +11,7 @@
 | Photoshop          | Bootstrap       |
 | TypeScript         | React           | 
 | Photoshop          |                 | 
-| -------------------|-----------------| 
+
 
 Thanks for visiting and I'd love to connect!
 
