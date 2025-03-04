@@ -4,8 +4,7 @@
 <p>Herne, Germany</p>
 
 
-| Things I code with              |                |
-| ------------- | --------------- |--------------- |
+| Things I code with                               |
 | Html          | Css             | Tailwind       |
 | JavaScript    | Photoshop       | Bootstrap      |
 | TypeScript    | React           | Photoshop      |
