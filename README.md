@@ -5,10 +5,10 @@
 
 
 | Things I code with |            |
-| ------------- | --------------- |
-| Html          | Css             |
-| JavaScript    | Photoshop       |
-| TypeScript    | React           |
+| ------------- | --------------- |--------------- |
+| Html          | Css             | Tailwind       |
+| JavaScript    | Photoshop       | Bootstrap      |
+| TypeScript    | React           | Photoshop      |
 
 Thanks for visiting and I'd love to connect!
 
