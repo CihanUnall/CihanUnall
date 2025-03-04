@@ -4,10 +4,13 @@
 <p>Herne, Germany</p>
 
 
-| Things I code with                               |
-| Html          | Css             | Tailwind       |
-| JavaScript    | Photoshop       | Bootstrap      |
-| TypeScript    | React           | Photoshop      |
+| Things I code with              |
+| --------------------------------| 
+| Html          | Css             | 
+| Tailwind      | JavaScript      | 
+| Photoshop     | Bootstrap       |
+| TypeScript    | React           | 
+| Photoshop     |
 
 Thanks for visiting and I'd love to connect!
 
