@@ -10,7 +10,7 @@
 | Tailwind           | JavaScript      | 
 | Photoshop          | Bootstrap       |
 | TypeScript         | React           | 
-| Photoshop          |                 | 
+| Photoshop          | Scss            | 
 
 
 Thanks for visiting and I'd love to connect!
