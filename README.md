@@ -18,7 +18,7 @@ I'm Cihan, a passionate Web Developer and UI/UX Designer. I love bringing creati
 
 ### Additional Skills:
 - Full Stack Developer
-- System Expert
+
 
 ---
 # 📊 GitHub Stats:
@@ -29,6 +29,3 @@ I'm Cihan, a passionate Web Developer and UI/UX Designer. I love bringing creati
 ---
 
 
-## 📝 "Great things are never done by one person. They’re done by a team of people." – Steve Jobs
-
----
