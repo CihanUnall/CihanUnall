@@ -1,6 +1,6 @@
 ![Header](assets/profileheader.png)
 
-<h2 align="center" style="color:#58a6ff;">
+<h2 align="center" style="color:#60A6C4;">
 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓜𝔂 𝓖𝓲𝓽𝓗𝓾𝓫 𝓟𝓻𝓸𝓯𝓲𝓵𝓮!
 </h2>
 
